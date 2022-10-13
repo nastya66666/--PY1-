@@ -30,4 +30,4 @@
 1. После прислать на проверку ссылку на Pull Request (PR).  
     Пример ссылки: `https://github.com/aeksei/RepositoryName/pull/1`
 1. Все pull requests можно найти на странице репозитория во вкладке "Pull requests"  
-    ![image](https://user-images.githubusercontent.com/14962819/194062365-4434ab16-7735-496d-8fe9-f0074e0a9eda.png)
+    ![image](https://user-images.githubusercontent.com/14962819/194062365-4434ab16-7735-4
